@@ -1707,8 +1707,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a BCCA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите BCCA-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BCCA address (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Введите BCCA-адрес (например B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1835,8 +1835,8 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес получателя платежа (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Адрес получателя платежа (например B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1876,8 +1876,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BCCA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите BCCA-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BCCA address (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Введите BCCA-адрес (например B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
 </context>
 <context>
@@ -1900,8 +1900,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1964,8 +1964,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1980,8 +1980,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BCCA address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес BCCA (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BCCA address (e.g. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</source>
+        <translation>Введите адрес BCCA (напр. B8VBzx5mFuepp8a3zAjYw8B5g3LofT8fk6)</translation>
     </message>
     <message>
         <location line="-2"/>
