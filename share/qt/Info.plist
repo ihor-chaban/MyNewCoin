@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>bitcoin.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleGetInfoString</key>
+	<string>BCCA-Qt</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleExecutable</key>
+	<string>BCCA-Qt</string>
+	<key>CFBundleIdentifier</key>
+	<string>co.bcca.BCCA-Qt</string>
+        <key>CFBundleURLTypes</key>
+        <array>
+          <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLName</key>
+            <string>co.bcca.BCCAPayment</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+              <string>bcca</string>
+            </array>
+          </dict>
+        </array>
+        <key>LSAppNapIsDisabled</key>
+          <string>True</string>
+</dict>
+</plist>

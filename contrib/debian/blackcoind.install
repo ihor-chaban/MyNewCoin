@@ -1,0 +1,2 @@
+debian/bin/bccad usr/bin
+src/bccad usr/lib/bcca
