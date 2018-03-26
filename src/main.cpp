@@ -46,7 +46,7 @@ int nStakeMinConfirmations = 500;
 unsigned int nStakeMinAge = 8 * 60 * 60; // 8 hours
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 500;
+int nCoinbaseMaturity = 20;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -1016,7 +1016,7 @@ unsigned int GetNextTargetRequired(const CBlockIndex* pindexLast, bool fProofOfS
     if (pindexPrevPrev->pprev == NULL)
         return bnTargetLimit.GetCompact(); // second block
 
-    int64_t nTargetSpacing = GetTargetSpacing(pindexLast->nHeight);
+    int64_t nTargetSpacing = 1 * 30;
     int64_t nActualSpacing = pindexPrev->GetBlockTime() - pindexPrevPrev->GetBlockTime();
     if (IsProtocolV1RetargetingFixed(pindexLast->nHeight)) {
         if (nActualSpacing < 0)
