@@ -2668,8 +2668,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;BCCA upozornenie&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 15714 alebo testovacia sieť: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 26085 or testnet: 10085)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 26085 alebo testovacia sieť: 10085)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2718,8 +2718,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;BCCA upozornenie&quot; admin@fo
     </message>
     <message>
         <location line="-126"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 15715 alebo testovacia sieť: 25715)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26086 or testnet: 10086)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 26086 alebo testovacia sieť: 10086)</translation>
     </message>
     <message>
         <location line="-16"/>
