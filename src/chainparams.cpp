@@ -170,7 +170,7 @@ public:
         genesis.nBits  = bnProofOfWorkLimit.GetCompact();
         genesis.nNonce = 1;
         hashGenesisBlock = genesis.GetHash();
-        nDefaultPort = 18444;
+        nDefaultPort = 18085;
         strDataDir = "regtest";
         assert(hashGenesisBlock == uint256("0x4b9b4ee56af99c751e61c181393d53fb7971e6f197a1a68624ef976c9beca4ff"));
 
